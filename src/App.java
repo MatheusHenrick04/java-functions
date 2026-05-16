@@ -1,7 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        float comissao = Utils.CalcularPercentual(100.00f, 20.00f);
+        float comissao = Utils.CalcularPercentual(100.00f,
+                20.00f);
         System.out.println(comissao);
+        float novoValor = Utils.calcularAcrescimo(100.00f, 10.00f);
+        System.out.println(novoValor);
 
     }
 
