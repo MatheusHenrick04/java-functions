@@ -1,18 +1,12 @@
-## Getting Started
+# ⚙️ Funções e Métodos em Java
+Repositório destinado a exercícios práticos focados em modularização, criação de funções (métodos) e cálculos financeiros em Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Conteúdo
+- **Cálculo de Acréscimo:** Métodos para aplicação e cálculo de percentuais de acréscimo sobre valores.
 
-## Folder Structure
+## 🛠️ Tecnologias
+- Java
+- VS Code
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ⚙️ Como Executar
+Os códigos-fonte estão armazenados na pasta `src/`. Basta clonar o repositório e executar os arquivos `.java` na sua IDE Java preferida.
